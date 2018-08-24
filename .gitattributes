@@ -1,0 +1,5 @@
+*.c linguist-language=Python*.c++ linguist-language=Python
+*.C++ linguist-language=Python
+*.js linguist-language=Python
+*.css linguist-language=Python
+*.html linguist-language=Python
