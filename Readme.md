@@ -1,4 +1,4 @@
-# 文字嵌入（Text embed）
+# 数字水印（**Digital Watermarking**）
 
 
 
@@ -28,8 +28,8 @@
 
 ###### 	1.build 文件夹下是使用cxfreeze打包好的可执行文件（Windows）
 
-###### 	2.text_embed.py 是可执行文件的源代码，增加了用户交互
+###### 	2.**Digital_watermarking**.py 是可执行文件的源代码，增加了用户交互
 
-###### 	3.text_embed_origin.py 是原始代码，仅提供原始思路
+###### 	3.**Digital_watermarking**_origin.py 是原始代码，仅提供原始思路
 
 ​	当然，数字水印是个很大的范畴，有很多实现方式，具有不同的**实现难度、信息容量、抗攻击性、对原图的干扰**等。我们在这里实现的是最简单的一种方法，其他更加高深的方法还是有待探索的。

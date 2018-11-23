@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
 import functools
-import sys
+# import sys
 
 def embedding_info(picname, savename, text):
     text += '#%#' #作为结束标记
